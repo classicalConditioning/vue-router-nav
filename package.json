@@ -1,7 +1,7 @@
 {
   "name": "vue-router-nav",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Alex Pavlov <alexpavlov0525@gmail.com>",
   "license": "MIT",
   "private": true,
