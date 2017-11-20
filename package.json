@@ -4,9 +4,9 @@
   "version": "0.1.3",
   "author": "Classical Conditioning <binaryvoidx@gmail.com>",
   "license": "MIT",
-  "main": "dist/vue-router-nav.js",
+  "main": "dist/index.js",
   "scripts": {
-    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+    "build": "webpack -p --progress"
   },
   "files": [
     "dist"
