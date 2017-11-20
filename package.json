@@ -1,7 +1,7 @@
 {
   "name": "vue-router-nav",
   "description": "A vue.js router navigation bar plugin based on vue-router.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Classical Conditioning <binaryvoidx@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
