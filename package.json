@@ -11,6 +11,9 @@
   "dependencies": {
     "vue": "^2.4.4"
   },
+  "files": [
+    "dist"
+  ],  
   "browserslist": [
     "> 1%",
     "last 2 versions",
