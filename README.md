@@ -1,18 +1,29 @@
 # vue-router-nav
 
-> A Vue.js project
+> A vue.js router navigation bar plugin based on vue-router.
 
-## Build Setup
+## Install
+`npm install vue-router-nav --save`
 
-``` bash
-# install dependencies
-npm install
+## Usage
 
-# serve with hot reload at localhost:8080
-npm run dev
+``` javascript
+import RouterNav from 'vue-router-nav'
 
-# build for production with minification
-npm run build
+Vue.use(RouterNav)
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+``` html
+<template>
+  <div id="app">
+    <router-nav/>
+    <router-view/>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'app'
+}
+</script>
+```

@@ -1,13 +1,12 @@
 {
   "name": "vue-router-nav",
-  "description": "A Vue.js project",
-  "version": "0.0.1",
+  "description": "A vue.js router navigation bar plugin based on vue-router.",
+  "version": "0.1.0",
   "author": "Alex Pavlov <alexpavlov0525@gmail.com>",
   "license": "MIT",
   "private": true,
   "main": "dist/vue-router-nav.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
