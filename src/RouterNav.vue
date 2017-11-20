@@ -31,7 +31,6 @@
 
 <script>
 export default {
-  name: 'router-nav',
   data: function () {
     return {
       active: false
