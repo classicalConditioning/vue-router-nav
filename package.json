@@ -5,8 +5,8 @@
     "nav",
     "router",
     "vue"
-  ],  
-  "version": "0.1.4",
+  ],
+  "version": "0.1.5",
   "author": "Classical Conditioning <binaryvoidx@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/classicalConditioning/vue-router-nav/issues"
   },
-  "homepage": "https://github.com/classicalConditioning/vue-router-nav#readme",  
+  "homepage": "https://github.com/classicalConditioning/vue-router-nav#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
