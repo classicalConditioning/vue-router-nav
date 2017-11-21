@@ -1,6 +1,11 @@
 {
   "name": "vue-router-nav",
   "description": "A vue.js router navigation bar plugin based on vue-router.",
+  "keywords": [
+    "nav",
+    "router",
+    "vue"
+  ],  
   "version": "0.1.4",
   "author": "Classical Conditioning <binaryvoidx@gmail.com>",
   "license": "MIT",
@@ -16,6 +21,11 @@
     "last 2 versions",
     "not ie <= 8"
   ],
+  "repository": "classicalConditioning/vue-router-nav",
+  "bugs": {
+    "url": "https://github.com/classicalConditioning/vue-router-nav/issues"
+  },
+  "homepage": "https://github.com/classicalConditioning/vue-router-nav#readme",  
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
