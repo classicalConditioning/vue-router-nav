@@ -38,12 +38,10 @@ export default {
   },
   computed: {
     currentRoute: function () {
-      console.log(this.$route)
       return this.$route.name
     }
   },
   created: function() {
-    console.log('--created')
   },
   methods: {
     toggle: function () {
