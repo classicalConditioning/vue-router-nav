@@ -1,6 +1,8 @@
 # vue-router-nav
 
-> A vue.js router navigation bar plugin based on vue-router.
+> Minimalistic responsive navigation bar that renders routes of vue-router.
+
+View the [demo](https://classicalconditioning.github.io/vue-router-nav/).
 
 ## Dependencies 
 
