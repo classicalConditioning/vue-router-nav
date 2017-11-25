@@ -99,7 +99,7 @@ export default {
     }
 
     .nav-item {
-      padding-left: 1em;
+      padding-right: 1em;
     }
 
     .nav-panel-mobile {
