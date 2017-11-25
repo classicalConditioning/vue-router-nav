@@ -6,7 +6,7 @@
     "router",
     "vue"
   ],
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "Classical Conditioning <binaryvoidx@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
