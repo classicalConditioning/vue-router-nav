@@ -89,7 +89,7 @@ export default {
   }
 
   /* media queries */
-  @media only screen and (min-width: 400px) {
+  @media only screen and (min-width: 450px) {
     .nav-panel {
       display: flex;
     }
